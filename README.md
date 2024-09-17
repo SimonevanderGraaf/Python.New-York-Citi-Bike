@@ -5,8 +5,7 @@ New York Citi Bike has been having distribution problems, which results in the i
 -	Are the existing stations evenly distributed over the city? 
 -	What are the most common routes between stations? 
 -	Which are the months with the most bike rides and which months have the least? Are seasons a factor? 
-Extra question interesting for the analysis:
--	Which type of bike is mostly used?
+-	Extra question interesting for the analysis: Which type of bike is mostly used?
 # Data
 For this project I have used the monthly data of NY Citi Bike for the year 2022, in total existing of more than 30 million rows.
 I also added weather data from New York using NOAA's API service.
