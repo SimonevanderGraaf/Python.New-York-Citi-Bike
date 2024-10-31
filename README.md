@@ -23,4 +23,4 @@ For this project I used Python, Visual Studio Code and the following libraries:
 - pillow: for image processing
 # Sources
 New York Citi Nike is a real company and their datasets are available via [amazon Web Services](https://s3.amazonaws.com/tripdata/index.html). 
-The weather data comes from the [National Oceanic and Atmospheric Administration website](https://www.noaa.gov/), part of the US government.  
+The weather data comes from an API from the [National Oceanic and Atmospheric Administration website](https://www.noaa.gov/), part of the US government.  
