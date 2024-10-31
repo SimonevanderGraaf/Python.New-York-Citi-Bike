@@ -1,5 +1,7 @@
 # Python.New-York-Citi-Bike
 New York Citi Bike has been having distribution problems, which results in the increase of bike shortage at popular bike stations and therefore in the increase of customer complaints. This dashboard will help tackle these problems. Right now, New York Citi bikes are often not available at popular stations at certain times. This analysis locates the details of these problems so a strategy can be created to solve them. 
+# Python Dashboard via Streamlit
+https://simone-ny-citi-bike-dashboard.streamlit.app/
 # Key Questions
 -	What are the most popular bike start stations across the city for Citi Bike rental and where are they?
 -	Are the existing stations evenly distributed over the city? 
